@@ -1,0 +1,1402 @@
+[
+  {
+    "category": {
+      "id": "CultureG30",
+      "name": "CultureG"
+    },
+    "difficulty": "easy",
+    "questions": [
+      {
+        "id": "30001AA",
+        "question": "Sous quel autre nom connaît-on mieux le chlorure de sodium ?",
+        "options": ["Le sucre", "Le sel", "Le poivre", "La moutarde"],
+        "correct_option": "Le sel"
+      },
+      {
+        "id": "30002AA",
+        "question": "Quel est le plus grand océan du monde ?",
+        "options": [
+          "Océan Atlantique",
+          "Océan Pacifique",
+          "Océan Indien",
+          "Océan Arctique"
+        ],
+        "correct_option": "Océan Pacifique"
+      },
+      {
+        "id": "30003AA",
+        "question": "Quel est le symbole chimique du fer  ?",
+        "options": ["Fe", "Fr", "Fi", "Fa"],
+        "correct_option": "Fe"
+      },
+      {
+        "id": "30004AA",
+        "question": "Quel volcan italien a enseveli la ville de Pompéi le 24 août de l'an 79 ?",
+        "options": [
+          "Le Vésuve",
+          "L'Etna",
+          "Le Mont Barbaro",
+          "Eyjafjallajökull"
+        ],
+        "correct_option": "Le Vésuve"
+      },
+      {
+        "id": "30005AA",
+        "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
+        "options": ["1889", "1991", "1961", "1989"],
+        "correct_option": "1989"
+      },
+      {
+        "id": "30006AA",
+        "question": "Combien compte-t-on de couleurs primaires ?",
+        "options": ["3", "4", "5", "6"],
+        "correct_option": "3"
+      },
+      {
+        "id": "30007AA",
+        "question": "Quelle est la langue maternelle la plus parlée au monde ?",
+        "options": ["Le mandarin", "L'anglais", "l'espagnol", "le français"],
+        "correct_option": "Le mandarin"
+      },
+      {
+        "id": "30008AA",
+        "question": "Dans quel pays peut-on visiter la Sagrada Familia ?",
+        "options": ["Mexique", "Portugal", "Espagne", "Brésil"],
+        "correct_option": "Espagne"
+      },
+      {
+        "id": "30009AA",
+        "question": "Qui est considéré comme “le père” de la bombe atomique ?",
+        "options": [
+          "Albert Einstein",
+          "Rudolf Diesel",
+          "Robert Oppenheimer",
+          "Enrico Fermi"
+        ],
+        "correct_option": "Robert Oppenheimer"
+      },
+      {
+        "id": "30010AA",
+        "question": "Dans la mythologie grecque, quelle créature est chargée de garder l’entrée des enfers ?",
+        "options": [
+          "Le minotaure",
+          "Cerbère",
+          "  Un titan",
+          " Un hécatonchire "
+        ],
+        "correct_option": "Cerbère"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "CultureG301",
+      "name": "CultureG"
+    },
+    "difficulty": "medium",
+    "questions": [
+      {
+        "id": "30001BB",
+        "question": "Combien y a-t-il de cavaliers dans un jeu d'échecs ?",
+        "options": ["2", "4", "3", "65"],
+        "correct_option": "4"
+      },
+      {
+        "id": "30002BB",
+        "question": "Quel pays possède un arbre sur son drapeau ?",
+        "options": ["Canada", "Pérou", "Liban", "Sri Lanka"],
+        "correct_option": "Liban"
+      },
+      {
+        "id": "30003BB",
+        "question": "En quelle année a eu lieu l'inauguration du Canal de Suez ? ",
+        "options": ["1859", "1901", "1869", "180"],
+        "correct_option": "1869"
+      },
+      {
+        "id": "30004BB",
+        "question": "Dans quel sport, trouve-t-on le ballon le plus gros au niveau professionnel ?",
+        "options": ["Basketball", "Handball", "Football", "Water-polo"],
+        "correct_option": "Basketball"
+      },
+      {
+        "id": "30005BB",
+        "question": "Quel est le nom donné à la culture des champignons pour le commerce ?",
+        "options": [
+          "Sériculture",
+          "Fungiculture",
+          "Héliciculture",
+          "Conchyliculture"
+        ],
+        "correct_option": "Fungiculture"
+      },
+      {
+        "id": "30006BB",
+        "question": "Quel roi français détient le record du plus long règne avec plus de 72 ans ?",
+        "options": [
+          "Louis XIV",
+          "Henri IV",
+          "Louis croix V bâton",
+          "Charles X"
+        ],
+        "correct_option": "Louis XIV"
+      },
+      {
+        "id": "30007BB",
+        "question": "Qui a réalisé la trilogie du dollar ?",
+        "options": [
+          "Sergio Leone",
+          "Francis Ford Coppola",
+          "Brian de Palma",
+          "Ennio Morricone"
+        ],
+        "correct_option": "Sergio Leone"
+      },
+      {
+        "id": "30008BB",
+        "question": "Laquelle de ces spécialités culinaires n'est pas japonaise ?",
+        "options": ["Les makis", "Les sashimis", "Le kimchi", "Les mochis"],
+        "correct_option": "Le kimchi"
+      },
+      {
+        "id": "30009BB",
+        "question": "Quelle est la traduction de l'acronyme Y.M.C.A dans la chanson des Village People ?",
+        "options": [
+          "Union Chrétienne des jeunes hommes",
+          "Faisons la fête ce soir",
+          "Syndicat de BTP et travaux publics",
+          "Chantons,Dansons,Buvons,Aimons"
+        ],
+        "correct_option": "Union Chrétienne des jeunes hommes"
+      },
+      {
+        "id": "30010BB",
+        "question": "Quelle est la quantité d’air qu'une personne adulte consomme en moyenne chaque jour ?",
+        "options": [
+          "1 000 litres",
+          "5 000 litres",
+          "12 000 litres ",
+          "25 000 litres"
+        ],
+        "correct_option": "12 000 litres"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "CultureG303",
+      "name": "CultureG"
+    },
+    "difficulty": "hard",
+    "questions": [
+      {
+        "id": "30001CC",
+        "question": "Quel est le nom de l’île principale du Japon qui contient notamment Tokyo et Hiroshima ?",
+        "options": ["Hokkaido", "Honshu", "Shikoku", "Okinawa"],
+        "correct_option": "Honshu"
+      },
+      {
+        "id": "30002CC",
+        "question": "Quel roi surnomme-t-on l'araignée ?",
+        "options": ["Louix X", "Louis XIII", "Louis XI", "Charles VII"],
+        "correct_option": "Louis XI"
+      },
+      {
+        "id": "30003CC",
+        "question": "Qu'est-ce que l'effet Tcherenkov ?",
+        "options": [
+          "Émission de lumière par une particule supraluminique",
+          "Réfraction de la lumière à travers un prisme",
+          "Absorption de lumière par un matériau",
+          "Production de champ magnétique lors de l'accélération d'une particule"
+        ],
+        "correct_option": "Émission de lumière par une particule supraluminique"
+      },
+      {
+        "id": "30004CC",
+        "question": " Quel type de réacteur à fusion utilise principalement la configuration Tokamak ?",
+        "options": [
+          "Réacteur à fusion inertielle",
+          "Réacteur à fusion magnétique",
+          "Réacteur à fusion par confinement inertiel par laser (ICF)",
+          "Réacteur à fusion par confinement électrostatique"
+        ],
+        "correct_option": "Réacteur à fusion magnétique"
+      },
+      {
+        "id": "30005CC",
+        "question": "Quel est le nom de la monnaie utilisée au Bangladesh ? ",
+        "options": ["Manat", "Taka", "Pula", "Birr"],
+        "correct_option": "Taka"
+      },
+      {
+        "id": "30006CC",
+        "question": "Quel est le nom scientifique donné aux globules rouges ?",
+        "options": ["Leucocyte", "Melanocyte", "Lymphocyte", "Érythrocyte"],
+        "correct_option": "Érythrocyte"
+      },
+      {
+        "id": "30007CC",
+        "question": "Quelle est la première console de jeu vidéo commercialisée dans le monde ?",
+        "options": [
+          "Atari 2600",
+          "Magnavox Odyssey",
+          "Nintendo Entertainment System (NES)",
+          "Sega Genesis (Mega Drive)"
+        ],
+        "correct_option": "Magnavox Odyssey"
+      },
+      {
+        "id": "30008CC",
+        "question": "Quel groupe sanguin est considéré comme donneur universel ?",
+        "options": ["AB+", "O+", "O-", "B+"],
+        "correct_option": "O-"
+      },
+      {
+        "id": "30009CC",
+        "question": "Quelle est la rivière la plus longue des États-Unis d'Amérique ?",
+        "options": [
+          "Le Grande Rio",
+          "Le Missouri",
+          "Le Colorado",
+          "Le Missipi"
+        ],
+        "correct_option": "Le Missouri"
+      },
+      {
+        "id": "30010CC",
+        "question": "Quel est le nom d'une bouteille de Champagne de 12 litres ?",
+        "options": ["Jeroboam", "salmanazar", "Nabuchodonosor", "Balthazar"],
+        "correct_option": "Balthazar"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "SCIENCE123",
+      "name": "Science"
+    },
+    "difficulty": "easy",
+    "questions": [
+      {
+        "id": "10001A",
+        "question": "Quelle est la première loi du mouvement de Newton ?",
+        "options": [
+          "Loi de l'inertie",
+          "Loi de l'action et de la réaction",
+          "Loi de la gravité",
+          "Loi de la conservation de l'énergie"
+        ],
+        "correct_option": "Loi de l'inertie"
+      },
+      {
+        "id": "10002B",
+        "question": "Quel est l'élément le plus abondant dans l'écorce terrestre ?",
+        "options": ["Oxygène", "Silicium", "Aluminium", "Fer"],
+        "correct_option": "Oxygène"
+      },
+      {
+        "id": "10003C",
+        "question": "Quelle est la formule chimique de l'eau ?",
+        "options": ["H2O2", "CO2", "H2O", "CH4"],
+        "correct_option": "H2O"
+      },
+      {
+        "id": "10004D",
+        "question": "Quel est le plus petit os du corps humain ?",
+        "options": [
+          "Os frontal",
+          "Os de la cuisse",
+          "Os de l'oreille",
+          "Os du bras"
+        ],
+        "correct_option": "Os de l'oreille"
+      },
+      {
+        "id": "10005E",
+        "question": "Quelle planète est surnommée la 'Planète Rouge' ?",
+        "options": ["Vénus", "Mars", "Jupiter", "Saturne"],
+        "correct_option": "Mars"
+      },
+      {
+        "id": "10006F",
+        "question": "Qu'est-ce que la photosynthèse ?",
+        "options": [
+          "Conversion de l'énergie solaire en énergie chimique",
+          "Respiration cellulaire",
+          "Digestion des plantes",
+          "Décomposition des déchets"
+        ],
+        "correct_option": "Conversion de l'énergie solaire en énergie chimique"
+      },
+      {
+        "id": "10007G",
+        "question": "Quelle est la vitesse de la lumière dans le vide ?",
+        "options": [
+          "300,000 km/s",
+          "150,000 km/s",
+          "500,000 km/s",
+          "1,000,000 km/s"
+        ],
+        "correct_option": "300,000 km/s"
+      },
+      {
+        "id": "10008H",
+        "question": "Quel est l'organe principal du système respiratoire humain ?",
+        "options": ["Poumons", "Coeur", "Foie", "Reins"],
+        "correct_option": "Poumons"
+      },
+      {
+        "id": "10009I",
+        "question": "Quelle est la plus petite particule d'un élément chimique ?",
+        "options": ["Atome", "Molécule", "Cellule", "Proton"],
+        "correct_option": "Atome"
+      },
+      {
+        "id": "10010J",
+        "question": "Quelle est la force qui maintient les planètes en orbite autour du soleil ?",
+        "options": [
+          "Force gravitationnelle",
+          "Force électromagnétique",
+          "Force nucléaire forte",
+          "Force centripète"
+        ],
+        "correct_option": "Force gravitationnelle"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "SCIENCE456",
+      "name": "Science"
+    },
+    "difficulty": "medium",
+    "questions": [
+      {
+        "id": "20001A",
+        "question": "Quel processus convertit le glucose en énergie dans les cellules ?",
+        "options": [
+          "Glycolyse",
+          "Photosynthèse",
+          "Réaction en chaîne",
+          "Osmose"
+        ],
+        "correct_option": "Glycolyse"
+      },
+      {
+        "id": "20002B",
+        "question": "Quel scientifique a développé la théorie de la relativité restreinte ?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Galilée",
+          "Marie Curie"
+        ],
+        "correct_option": "Albert Einstein"
+      },
+      {
+        "id": "20003C",
+        "question": "Quel est le composant principal de l'air que nous respirons ?",
+        "options": ["Azote", "Oxygène", "Argon", "Dioxyde de carbone"],
+        "correct_option": "Azote"
+      },
+      {
+        "id": "20004D",
+        "question": "Quelle est la plus grande planète du système solaire ?",
+        "options": ["Jupiter", "Saturne", "Neptune", "Mars"],
+        "correct_option": "Jupiter"
+      },
+      {
+        "id": "20005E",
+        "question": "Quelle est la formule chimique de la molécule d'ADN ?",
+        "options": ["RNA", "ATP", "DNA", "PCR"],
+        "correct_option": "DNA"
+      },
+      {
+        "id": "20006F",
+        "question": "Quel est le processus par lequel les plantes produisent leur propre nourriture ?",
+        "options": [
+          "Respiration cellulaire",
+          "Photosynthèse",
+          "Fermentation",
+          "Digestion"
+        ],
+        "correct_option": "Photosynthèse"
+      },
+      {
+        "id": "20007G",
+        "question": "Quel élément chimique a le numéro atomique 79 ?",
+        "options": ["Or", "Argent", "Cuivre", "Platine"],
+        "correct_option": "Or"
+      },
+      {
+        "id": "20008H",
+        "question": "Quelle est la couche atmosphérique qui contient la majorité de la météo de la Terre ?",
+        "options": ["Troposphère", "Stratosphère", "Ionosphère", "Exosphère"],
+        "correct_option": "Troposphère"
+      },
+      {
+        "id": "20009I",
+        "question": "Quelle est la principale fonction des globules rouges dans le sang ?",
+        "options": [
+          "Transporter l'oxygène",
+          "Défense immunitaire",
+          "Coagulation",
+          "Élimination des déchets"
+        ],
+        "correct_option": "Transporter l'oxygène"
+      },
+      {
+        "id": "20010J",
+        "question": "Quel est le processus par lequel l'eau change de l'état liquide à l'état gazeux ?",
+        "options": ["Évaporation", "Condensation", "Fusion", "Solidification"],
+        "correct_option": "Évaporation"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "SCIENCE789",
+      "name": "Science"
+    },
+    "difficulty": "hard",
+    "questions": [
+      {
+        "id": "30001A",
+        "question": "Quelle est la théorie scientifique qui décrit l'expansion de l'univers depuis le Big Bang ?",
+        "options": [
+          "Théorie de la relativité",
+          "Théorie des cordes",
+          "Théorie du chaos",
+          "Théorie du Big Bang"
+        ],
+        "correct_option": "Théorie du Big Bang"
+      },
+      {
+        "id": "30002B",
+        "question": "Quel est le processus de production d'énergie dans les étoiles par fusion nucléaire ?",
+        "options": [
+          "Fission nucléaire",
+          "Réaction chimique",
+          "Fusion froide",
+          "Fusion thermonucléaire"
+        ],
+        "correct_option": "Fusion thermonucléaire"
+      },
+      {
+        "id": "30003C",
+        "question": "Quel physicien a formulé les lois du mouvement et la loi de la gravitation universelle ?",
+        "options": [
+          "Albert Einstein",
+          "Isaac Newton",
+          "Galilée",
+          "Stephen Hawking"
+        ],
+        "correct_option": "Isaac Newton"
+      },
+      {
+        "id": "30004D",
+        "question": "Quelle est la structure de base de l'ADN, la molécule portant l'information génétique ?",
+        "options": [
+          "Double hélice",
+          "Simple hélice",
+          "Triple hélice",
+          "Chaîne linéaire"
+        ],
+        "correct_option": "Double hélice"
+      },
+      {
+        "id": "30005E",
+        "question": "Quel est l'élément le plus réactif chimiquement sur la table périodique ?",
+        "options": ["Fluor", "Oxygène", "Sodium", "Chlore"],
+        "correct_option": "Fluor"
+      },
+      {
+        "id": "30006F",
+        "question": "Quel est le processus par lequel les étoiles explosent à la fin de leur vie ?",
+        "options": [
+          "Fusion nucléaire",
+          "Supernova",
+          "Éclipse solaire",
+          "Éclat stellaire"
+        ],
+        "correct_option": "Supernova"
+      },
+      {
+        "id": "30007G",
+        "question": "Quelle est la particule subatomique chargée négativement ?",
+        "options": ["Proton", "Électron", "Neutron", "Positron"],
+        "correct_option": "Électron"
+      },
+      {
+        "id": "30008H",
+        "question": "Quelle est la force qui maintient les quarks ensemble pour former des protons et des neutrons ?",
+        "options": [
+          "Force électromagnétique",
+          "Force nucléaire forte",
+          "Force gravitationnelle",
+          "Force nucléaire faible"
+        ],
+        "correct_option": "Force nucléaire forte"
+      },
+      {
+        "id": "30009I",
+        "question": "Quel est l'effet du trou noir sur la lumière qui s'en approche trop ?",
+        "options": [
+          "Réflexion totale",
+          "Absorption totale",
+          "Réfraction totale",
+          "Incurvation totale"
+        ],
+        "correct_option": "Absorption totale"
+      },
+      {
+        "id": "30010J",
+        "question": "Quelle est la molécule responsable du stockage et de la transmission de l'énergie dans les cellules ?",
+        "options": [
+          "Adénosine triphosphate (ATP)",
+          "Glucose",
+          "Acide désoxyribonucléique (ADN)",
+          "Ribonucléique (ARN)"
+        ],
+        "correct_option": "Adénosine triphosphate (ATP)"
+      }
+    ]
+  },
+
+  {
+    "category": {
+      "id": "MUSIC123",
+      "name": "Musique"
+    },
+    "difficulty": "easy",
+    "questions": [
+      {
+        "id": "634661448f0049033d2eadae",
+        "question": "Qui a chanté 'Billie Jean' et 'Thriller' ?",
+        "options": [
+          "Prince",
+          "Elvis Presley",
+          "Stevie Wonder",
+          "Michael Jackson"
+        ],
+        "correct_option": "Michael Jackson"
+      },
+      {
+        "id": "634661448f0049033d2eadb6",
+        "question": "Quel genre musical est souvent associé à l'utilisation de la guitare électrique ?",
+        "options": ["Classique", "Country", "Jazz", "Rock"],
+        "correct_option": "Rock"
+      },
+      {
+        "id": "634661448f0049033d2eadb7",
+        "question": "Combien de touches noires et blanches un piano standard a-t-il généralement ?",
+        "options": ["52", "76", "64", "88"],
+        "correct_option": "88"
+      },
+      {
+        "id": "634661448f0049033d2eadb8",
+        "question": "Quelle est la note la plus basse d'une portée musicale standard ?",
+        "options": ["Sol", "La", "Mi", "Do"],
+        "correct_option": "Do"
+      },
+      {
+        "id": "634661448f0049033d2eada9",
+        "question": "Quel est le nom de l'instrument à clavier souvent associé à la musique classique ?",
+        "options": ["Orgue", "Clavecin", "Accordéon", "Piano"],
+        "correct_option": "Piano"
+      },
+      {
+        "id": "634661448f0049033d2eada0",
+        "question": "Qui était surnommé 'The King of Rock 'n' Roll' ?",
+        "options": [
+          "Michael Jackson",
+          "Buddy Holly",
+          "Chuck Berry",
+          "Elvis Presley"
+        ],
+        "correct_option": "Elvis Presley"
+      },
+      {
+        "id": "634661448f0049033d2eada1",
+        "question": "Quel est le nom du groupe de rock britannique qui comprend John Lennon, Paul McCartney, George Harrison et Ringo Starr ?",
+        "options": [
+          "The Rolling Stones",
+          "The Who",
+          "Led Zeppelin",
+          "The Beatles"
+        ],
+        "correct_option": "The Beatles"
+      },
+      {
+        "id": "634661448f0049033d2eada2",
+        "question": "Quelle est la première note de la gamme de do majeur ?",
+        "options": ["La", "Mi", "Sol", "Do"],
+        "correct_option": "Do"
+      },
+      {
+        "id": "634661448f0049033d2eada5",
+        "question": "Quel est l'instrument à vent le plus courant dans un orchestre symphonique ?",
+        "options": ["Trompette", "Saxophone", "Trombone", "Flûte"],
+        "correct_option": "Flûte"
+      },
+      {
+        "id": "634661448f0049033d2eada6",
+        "question": "Quel est le nom du plus petit instrument de la famille des cordes frottées ?",
+        "options": ["Violoncelle", "Contrebasse", "Alto", "Violon"],
+        "correct_option": "Violon"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "MUSIC123",
+      "name": "Musique"
+    },
+    "difficulty": "medium",
+    "questions": [
+      {
+        "id": "634661448f0049033d2eadb6",
+        "question": "Quel instrument est souvent appelé 'le roi des instruments' ?",
+        "options": ["Violoncelle", "Piano", "Trompette", "Orgue"],
+        "correct_option": "Orgue"
+      },
+      {
+        "id": "634661448f0049033d2eadc7",
+        "question": "Dans quel pays a émergé le genre musical reggae, popularisé par des artistes tels que Bob Marley ?",
+        "options": ["Trinité-et-Tobago", "Barbade", "Haïti", "Jamaïque"],
+        "correct_option": "Jamaïque"
+      },
+      {
+        "id": "634661448f0049033d2eadb8",
+        "question": "Quelle est la durée standard d'une symphonie classique de Beethoven ?",
+        "options": [
+          "Environ 15 minutes",
+          "Environ 45 minutes",
+          "Environ 1 heure",
+          "Environ 30 minutes"
+        ],
+        "correct_option": "Environ 30 minutes"
+      },
+      {
+        "id": "634661448f0049033d2eadc2",
+        "question": "Quel terme désigne le passage d'une pièce musicale d'une tonalité à une autre de manière fluide et naturelle ?",
+        "options": ["Harmonisation", "Transposition", "Cadence", "Modulation"],
+        "correct_option": "Modulation"
+      },
+      {
+        "id": "634661448f0049033d2eadba",
+        "question": "Quel compositeur russe est célèbre pour ses ballets 'Le Lac des cygnes' et 'La Belle au bois dormant' ?",
+        "options": [
+          "Igor Stravinsky",
+          "Serge Prokofiev",
+          "Dmitri Chostakovitch",
+          "Piotr Ilitch Tchaïkovski"
+        ],
+        "correct_option": "Piotr Ilitch Tchaïkovski"
+      },
+      {
+        "id": "634661448f0049033d2eadbb",
+        "question": "Quel instrument est associé au musicien de jazz Django Reinhardt ?",
+        "options": [
+          "Trompette",
+          "Saxophone",
+          "Contrebasse",
+          "Guitare manouche"
+        ],
+        "correct_option": "Guitare manouche"
+      },
+      {
+        "id": "634661448f0049033d2eadc8",
+        "question": "Quel terme désigne un groupe de musiciens qui jouent ensemble, généralement sous la direction d'un chef d'orchestre ?",
+        "options": ["Ensemble", "Chœur", "Quatuor", "Orchestre"],
+        "correct_option": "Orchestre"
+      },
+      {
+        "id": "634661448f0049033d2eadbd",
+        "question": "Quel terme désigne une suite de notes jouées rapidement d'une manière fluide et sans interruption ?",
+        "options": ["Staccato", "Legato", "Vibrato", "Glissando"],
+        "correct_option": "Glissando"
+      },
+      {
+        "id": "634661448f0049033d2eadbe",
+        "question": "Quel groupe de rock américain est connu pour son album conceptuel 'The Wall' ?",
+        "options": ["Led Zeppelin", "The Who", "Queen", "Pink Floyd"],
+        "correct_option": "Pink Floyd"
+      },
+      {
+        "id": "634661448f0049033d2eadc4",
+        "question": "Quel terme désigne une composition musicale pour un orchestre, généralement en plusieurs mouvements ?",
+        "options": ["Concerto", "Sonate", "Suite", "Symphonie"],
+        "correct_option": "Symphonie"
+      }
+    ]
+  },
+  {
+    "category": {
+      "id": "MUSIC123",
+      "name": "Musique"
+    },
+    "difficulty": "hard",
+    "questions": [
+      {
+        "id": "634661448f0049033d2eadca",
+        "question": "Quelle est la technique vocale consistant à chanter sans paroles, en utilisant des sons vocaux non lexicaux ?",
+        "options": ["Scat", "Aria", "Madrigal", "Vocalise"],
+        "correct_option": "Vocalise"
+      },
+      {
+        "id": "634661448f0049033d2eadd6",
+        "question": "Quel musicien de jazz américain est surnommé 'Satchmo' et était célèbre pour son talent de trompettiste ainsi que pour sa voix distinctive ?",
+        "options": [
+          "Dizzy Gillespie",
+          "Miles Davis",
+          "Charlie Parker",
+          "Louis Armstrong"
+        ],
+        "correct_option": "Louis Armstrong"
+      },
+      {
+        "id": "634661448f0049033d2eadcc",
+        "question": "Quel est le nom du mouvement artistique et musical qui a émergé au début du 20e siècle, caractérisé par l'utilisation de dissonances et de rythmes complexes ?",
+        "options": ["Romantisme", "Baroque", "Impressionnisme", "Modernisme"],
+        "correct_option": "Modernisme"
+      },
+      {
+        "id": "634661448f0049033d2eaddb",
+        "question": "Quel est le nom du mouvement musical et culturel qui a émergé dans les années 1960 à San Francisco et était associé à des groupes comme Grateful Dead et Jefferson Airplane ?",
+        "options": [
+          "Le mouvement punk",
+          "Le mouvement grunge",
+          "Le mouvement mod",
+          "Le mouvement hippie"
+        ],
+        "correct_option": "Le mouvement hippie"
+      },
+      {
+        "id": "634661448f0049033d2eadd0",
+        "question": "Quelle comédie musicale, basée sur le roman de Victor Hugo, comprend des chansons comme 'I Dreamed a Dream' et 'On My Own' ?",
+        "options": [
+          "The Phantom of the Opera",
+          "Rent",
+          "Cats",
+          "Les Misérables"
+        ],
+        "correct_option": "Les Misérables"
+      },
+      {
+        "id": "634661448f0049033d2eadcf",
+        "question": "Quel célèbre guitariste américain est connu pour son jeu de guitare slide et a été surnommé 'King of the Slide Guitar' ?",
+        "options": [
+          "Jimi Hendrix",
+          "Eric Clapton",
+          "B.B. King",
+          "Duane Allman"
+        ],
+        "correct_option": "Duane Allman"
+      },
+      {
+        "id": "634661448f0049033d2eadd8",
+        "question": "Quel compositeur italien du Baroque est connu pour ses concertos pour violon, notamment 'Les Quatre Saisons' ?",
+        "options": [
+          "Johann Sebastian Bach",
+          "George Frideric Handel",
+          "Arcangelo Corelli",
+          "Antonio Vivaldi"
+        ],
+        "correct_option": "Antonio Vivaldi"
+      },
+      {
+        "id": "634661448f0049033d2eadcc",
+        "question": "Quelle chanson du groupe The Beatles est également connue sous le nom de 'The White Album' et comprend des chansons comme 'Blackbird' et 'While My Guitar Gently Weeps' ?",
+        "options": [
+          "Abbey Road",
+          "Revolver",
+          "Sgt. Pepper's Lonely Hearts Club Band",
+          "The Beatles (White Album)"
+        ],
+        "correct_option": "The Beatles (White Album)"
+      },
+      {
+        "id": "634661448f0049033d2eadd2",
+        "question": "Quel est le terme utilisé pour décrire une suite de notes jouées très rapidement, généralement sur une corde frottée d'un instrument à cordes ?",
+        "options": ["Staccato", "Legato", "Pizzicato", "Spiccato"],
+        "correct_option": "Spiccato"
+      },
+      {
+        "id": "634661448f0049033d2eadd9",
+        "question": "Quelle chanson de Bob Dylan, devenue un hymne des droits civiques, a été interprétée par de nombreux artistes, dont Joan Baez et Peter, Paul and Mary ?",
+        "options": [
+          "The Times They Are a-Changin'",
+          "Like a Rolling Stone",
+          "Mr. Tambourine Man",
+          "Blowin' in the Wind"
+        ],
+        "correct_option": "Blowin' in the Wind"
+      }
+    ]
+  },
+  {
+    "category": {
+        "id": "CINEMA125",
+        "name": "cinema"
+    },
+    "difficulty": "easy",
+    "questions": [
+        {
+            "id": "10001B",
+            "question": "Qui est le réalisateur de 'E.T. l'extra-terrestre'?",
+            "option": [
+                "Christopher Nolan",
+                "Quentin Tarantino",
+                "Quentin Tarantino",
+                "Steven Spielberg"
+            ],
+            "correct_option": "Steven Spielberg"
+        },
+        {
+            "id": "10002B",
+            "question": "Dans quel film peut-on entendre la réplique : 'Je suis le roi du monde!'?",
+            "option": [
+                "Inception",
+                "Le Roi Lion",
+                "Gladiator",
+                "Titanic"
+            ],
+            "correct_option": "Titanic"
+        },
+        {
+            "id": "10003B",
+            "question": "Quel acteur joue le rôle de Harry Potter ?",
+            "option": [
+                "Rupert Grint",
+                "Elijah Wood",
+                "Tom Holland",
+                "Daniel Radcliffe"
+            ],
+            "correct_option": "Daniel Radcliffe"
+        },
+        {
+            "id": "10004B",
+            "question": "Quelle ville est protégée par Batman ?",
+            "option": [
+                "New York",
+                "Metropolis",
+                "Star City",
+                "Gotham City"
+            ],
+            "correct_option": "Gotham City"
+        },
+        {
+            "id": "10005B",
+            "question": "Quel acteur joue Jack Sparrow dans 'Pirates des Caraïbes' ?",
+            "option": [
+                "Orlando Bloom",
+                "Brad Pitt",
+                "Hugh Jackman",
+                "Johnny Depp"
+            ],
+            "correct_option": "Johnny Depp"
+        },
+        {
+            "id": "10006B",
+            "question": "Quel film de super-héros de 2018 met en vedette Chadwick Boseman dans le rôle principal?",
+            "option": [
+                "Iron Man",
+                "Thor",
+                "Spider-Man",
+                "Black Panther"
+            ],
+            "correct_option": "Black Panther"
+        },
+        {
+            "id": "10007B",
+            "question": "Qui est connu pour avoir dit 'Je vais faire une offre qu'il ne pourra pas refuser' ?",
+            "option": [
+                "James Bond",
+                "Indiana Jones",
+                "Tony Montana",
+                "Don Corleone"
+            ],
+            "correct_option": "Don Corleone"
+        },
+        {
+            "id": "10008B",
+            "question": "Dans quel film Leonardo DiCaprio joue-t-il un voleur spécialisé dans le vol de rêves ?",
+            "option": [
+                "The Revenant",
+                "Shutter Island",
+                "Inception",
+                "Titanic"
+            ],
+            "correct_option": "Inception"
+        },
+        {
+            "id": "10009B",
+            "question": "Quel film a pour vedette un grand requin blanc ?",
+            "option": [
+                "Finding Nemo",
+                "Deep Blue Sea",
+                "Les Dents de la Mer",
+                "Aquaman"
+            ],
+            "correct_option": "Les Dents de la Mer"
+        },
+        {
+            "id": "10010B",
+            "question": "Qui a réalisé 'La Liste de Schindler' en 1993 ?",
+            "option": [
+                "Ridley Scott",
+                "Oliver Stone",
+                "James Cameron",
+                "Steven Spielberg"
+            ],
+            "correct_option": "Steven Spielberg"
+        }
+    ]
+},
+{
+    "category": {
+        "id": "CINEMA126",
+        "name": "cinema"
+    },
+    "difficulty": "medium",
+    "questions": [
+        {
+            "id": "10001C",
+            "question": "Dans quel film de Quentin Tarantino voit-on le personnage de Mia Wallace ?",
+            "option": [
+                "Kill Bill",
+                "Pulp Fiction",
+                "Reservoir Dogs",
+                "Django Unchained"
+            ],
+            "correct_option": "Pulp Fiction"
+        },
+        {
+            "id": "10002C",
+            "question": "Qui a remporté l'Oscar de la meilleure actrice pour son rôle dans 'La Môme'?",
+            "option": [
+                "Audrey Tautou",
+                "Catherine Deneuve",
+                "Juliette Binoche",
+                "Marion Cotillard"
+            ],
+            "correct_option": "Marion Cotillard"
+        },
+        {
+            "id": "10003C",
+            "question": "Quel est le premier film de la série 'Le Seigneur des Anneaux'?",
+            "option": [
+                "La Communauté de l'Anneau",
+                "La Bataille des Cinq Armées",
+                "Le Retour du Roi",
+                "Les Deux Tours"
+            ],
+            "correct_option": "La Communauté de l'Anneau"
+        },
+        {
+            "id": "10004C",
+            "question": "Qui a réalisé 'Inglourious Basterds' en 2009 ?",
+            "option": [
+                "Steven Spielberg",
+                "Quentin Tarantino",
+                "Martin Scorsese",
+                "Christopher Nolan"
+            ],
+            "correct_option": "Quentin Tarantino"
+        },
+        {
+            "id": "10005C",
+            "question": "Dans 'Le Parrain', qui joue le rôle de Michael Corleone ?",
+            "option": [
+                "Marlon Brando",
+                "Robert De Niro",
+                "Al Pacino",
+                "James Caan"
+            ],
+            "correct_option": "Al Pacino"
+        },
+        {
+            "id": "10006C",
+            "question": "Quel film a remporté l'Oscar du meilleur film en 2001 ?",
+            "option": [
+                "Gladiator",
+                "A Beautiful Mind",
+                "Le Seigneur des Anneaux",
+                "Moulin Rouge"
+            ],
+            "correct_option": "Gladiator"
+        },
+        {
+            "id": "10007C",
+            "question": "Quel est le nom de l'actrice qui joue Hermione Granger dans la série 'Harry Potter'?",
+            "option": [
+                "Anne Hathaway",
+                "Natalie Portman",
+                "Keira Knightley",
+                "Emma Watson"
+            ],
+            "correct_option": "Emma Watson"
+        },
+        {
+            "id": "10008C",
+            "question": "Dans quel film des années 90 Tom Hanks joue-t-il un avocat atteint du SIDA ?",
+            "option": [
+                "Big",
+                "Cast Away",
+                "Philadelphia",
+                "Forrest Gump"
+            ],
+            "correct_option": "Philadelphia"
+        },
+        {
+            "id": "10009C",
+            "question": "Quel film de science-fiction de 1982, réalisé par Ridley Scott, est devenu un classique du genre ?",
+            "option": [
+                "Blade Runner",
+                "Star Wars",
+                "Alien",
+                "The Terminator"
+            ],
+            "correct_option": "Blade Runner"
+        },
+        {
+            "id": "10010C",
+            "question": "Qui a composé la musique célèbre de 'Psychose' d'Alfred Hitchcock ?",
+            "option": [
+                "John Williams",
+                "Bernard Herrmann",
+                "Ennio Morricone",
+                "Hans Zimmer"
+            ],
+            "correct_option": "Bernard Herrmann"
+        }
+    ]
+},
+{
+    "category": {
+        "id": "CINEMA127",
+        "name": "cinema"
+    },
+    "difficulty": "hard",
+    "questions": [
+        {
+            "id": "10001D",
+            "question": "Quel cinéaste français est célèbre pour ses films 'Le Mépris' et 'À bout de souffle'?",
+            "option": [
+                "François Truffaut",
+                "Jean-Luc Godard",
+                "Louis Malle",
+                "Claude Chabrol"
+            ],
+            "correct_option": "Jean-Luc Godard"
+        },
+        {
+            "id": "10002D",
+            "question": "Dans quel film Jean Reno joue-t-il un tueur à gages?",
+            "option": [
+                "Léon",
+                "Nikita",
+                "Le Grand Bleu",
+                "Les Visiteurs"
+            ],
+            "correct_option": "Léon"
+        },
+        {
+            "id": "10003D",
+            "question": "Quel film a remporté la Palme d'Or à Cannes en 1987?",
+            "option": [
+                "Sous le soleil de Satan",
+                "Le Festin de Babette",
+                "Platoon",
+                "La Mission"
+            ],
+            "correct_option": "Sous le soleil de Satan"
+        },
+        {
+            "id": "10004D",
+            "question": "Qui a réalisé 'Mulholland Drive'?",
+            "option": [
+                "David Fincher",
+                "David Lynch",
+                "Quentin Tarantino",
+                "Martin Scorsese"
+            ],
+            "correct_option": "David Lynch"
+        },
+        {
+            "id": "10005D",
+            "question": "Qui a écrit le scénario de 'Pulp Fiction'?",
+            "option": [
+                "Quentin Tarantino et Martin Scorsese",
+                "Quentin Tarantino et Stanley Kubrick",
+                "Quentin Tarantino et Robert Rodriguez",
+                "Quentin Tarantino et Roger Avary"
+            ],
+            "correct_option": "Quentin Tarantino et Roger Avary"
+        },
+        {
+            "id": "10006D",
+            "question": "Quel est le premier film de la trilogie 'Trois couleurs' de Krzysztof Kieślowski?",
+            "option": [
+                "Blanc",
+                "Rouge",
+                "Bleu",
+                "Vert"
+            ],
+            "correct_option": "Bleu"
+        },
+        {
+            "id": "10007D",
+            "question": "Quel acteur a joué dans 'Le Septième Sceau' de Ingmar Bergman ?",
+            "option": [
+                "Max von Sydow",
+                "Marcello Mastroianni",
+                "Toshiro Mifune",
+                " Alain Delon"
+            ],
+            "correct_option": "Max von Sydow"
+        },
+        {
+            "id": "10008D",
+            "question": "Quel est le nom du réalisateur de 'La Vie d'Adèle' ?",
+            "option": [
+                "Luc Besson",
+                "Gaspar Noé",
+                "Abdellatif Kechiche",
+                "François Ozon"
+            ],
+            "correct_option": "Abdellatif Kechiche"
+        },
+        {
+            "id": "10009D",
+            "question": "Quel film a marqué les débuts de réalisateur de Clint Eastwood ?",
+            "option": [
+                "Unforgiven",
+                "Mystic River",
+                "Play Misty for Me",
+                "Gran Torino"
+            ],
+            "correct_option": "Mystic River"
+        },
+        {
+            "id": "10010D",
+            "question": "Quel film, considéré comme un classique du cinéma néo-réaliste italien, a été réalisé par Vittorio De Sica en 1948 ?",
+            "option": [
+                "La Dolce Vita",
+                "Rome, Ville Ouverte",
+                "Le Voleur de bicyclette",
+                "Umberto D"
+            ],
+            "correct_option": "Le Voleur de bicyclette"
+        }
+    ]
+},
+{
+  "category": {
+    "id": "Sport250",
+    "name": "Sport"
+},
+"difficulty": "easy",
+"questions": [
+      {
+        "id": "10001A",
+        "question": "Quel joueur de football a remporté le Ballon d'Or en 2020?",
+        "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Mohamed Salah"],
+        "correct_option": "a"
+      },
+      {
+        "id": "10002B",
+        "question": "En quelle année les Jeux olympiques d'été ont-ils eu lieu pour la première fois?",
+        "options": ["1896", "1904", "1920", "1936"],
+        "correct_option": "a"
+      },
+      {
+        "id": "10003C",
+        "question": "Quelle équipe a remporté la Coupe du Monde de la FIFA en 2014?",
+        "options": ["Brésil", "Espagne", "Allemagne", "Argentine"],
+        "correct_option": "c"
+      },
+      {
+        "id": "10004D",
+        "question": "Quel joueur de tennis a remporté le plus grand nombre de titres du Grand Chelem en simple masculin?",
+        "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+        "correct_option": "c"
+      },
+      {
+        "id": "10005E",
+        "question": "Dans quel sport Michael Phelps excelle-t-il?",
+        "options": ["Basketball", "Athlétisme", "Natation", "Tennis"],
+        "correct_option": "c"
+      },
+      {
+        "id": "10006F",
+        "question": "Quel pays a remporté le plus grand nombre de médailles d'or aux Jeux olympiques d'hiver?",
+        "options": ["Norvège", "États-Unis", "Canada", "Russie"],
+        "correct_option": "a"
+      },
+      {
+        "id": "10007G",
+        "question": "Qui a remporté le Tour de France 2020?",
+        "options": ["Egan Bernal", "Primoz Roglic", "Tadej Pogacar", "Chris Froome"],
+        "correct_option": "c"
+      },
+      {
+        "id": "10008H",
+        "question": "Quelle équipe a remporté la dernière Coupe du Monde de rugby en 2019?",
+        "options": ["Australie", "Nouvelle-Zélande", "Afrique du Sud", "Angleterre"],
+        "correct_option": "c"
+      },
+      {
+        "id": "10009I",
+        "question": "Quel joueur de basketball est surnommé 'The Greek Freak'?",
+        "options": ["LeBron James", "Kevin Durant", "Giannis Antetokounmpo", "Stephen Curry"],
+        "correct_option": "c"
+      },
+      {
+        "id": "10010J",
+        "question": "Quel pays a remporté la dernière Coupe d'Afrique des Nations de football en 2019?",
+        "options": ["Nigeria", "Sénégal", "Algérie", "Maroc"],
+        "correct_option": "c"
+      }
+    ]
+  },
+{
+  "category": {
+    "id": "Sport250",
+    "name": "Sport"
+},
+"difficulty": "medium",
+"questions": [
+      {
+        "id": "20001A",
+        "question": "Quel joueur de football a remporté le Soulier d'Or européen en 2019?",
+        "options": ["Lionel Messi", "Cristiano Ronaldo", "Kylian Mbappé", "Robert Lewandowski"],
+        "correct_option": "d"
+      },
+      {
+        "id": "20002B",
+        "question": "En quelle année les Jeux olympiques d'été ont-ils été organisés pour la première fois?",
+        "options": ["1896", "1900", "1920", "1936"],
+        "correct_option": "a"
+      },
+      {
+        "id": "20003C",
+        "question": "Quel athlète a remporté le décathlon aux Jeux olympiques de 1976 à Montréal?",
+        "options": ["Bruce Jenner", "Daley Thompson", "Ashton Eaton", "Roman Šebrle"],
+        "correct_option": "a"
+      },
+      {
+        "id": "20004D",
+        "question": "Quelle équipe a remporté la dernière Coupe d'Afrique des Nations de football en 2021?",
+        "options": ["Sénégal", "Nigeria", "Algérie", "Maroc"],
+        "correct_option": "c"
+      },
+      {
+        "id": "20005E",
+        "question": "Qui a été le meilleur buteur de la Ligue des champions de l'UEFA 2020-2021?",
+        "options": ["Erling Haaland", "Robert Lewandowski", "Karim Benzema", "Lionel Messi"],
+        "correct_option": "b"
+      },
+      {
+        "id": "20006F",
+        "question": "Quel pays a remporté le plus grand nombre de médailles aux Jeux olympiques d'hiver?",
+        "options": ["Norvège", "Allemagne", "Canada", "États-Unis"],
+        "correct_option": "a"
+      },
+      {
+        "id": "20007G",
+        "question": "Qui a remporté le dernier championnat du monde de Formule 1 en 2021?",
+        "options": ["Lewis Hamilton", "Max Verstappen", "Valtteri Bottas", "Sebastian Vettel"],
+        "correct_option": "b"
+      },
+      {
+        "id": "20008H",
+        "question": "Quelle nation a remporté le plus grand nombre de médailles aux Jeux olympiques de Rio 2016?",
+        "options": ["États-Unis", "Chine", "Russie", "Allemagne"],
+        "correct_option": "a"
+      },
+      {
+        "id": "20009I",
+        "question": "Quel boxeur a été surnommé 'Money'?",
+        "options": ["Manny Pacquiao", "Floyd Mayweather Jr.", "Canelo Alvarez", "Mike Tyson"],
+        "correct_option": "b"
+      },
+      {
+        "id": "20010J",
+        "question": "Quel joueur de tennis a remporté le plus grand nombre de titres du Grand Chelem en simple féminin?",
+        "options": ["Serena Williams", "Steffi Graf", "Martina Navratilova", "Margaret Court"],
+        "correct_option": "d"
+      }
+    ]
+  },
+{
+  "category": {
+    "id": "Sport250",
+    "name": "Sport"
+},
+"difficulty": "hard",
+"questions": [
+      {
+        "id": "30001A",
+        "question": "Quel athlète a détenu le record du monde du saut à la perche masculin pendant 6 ans, de 1994 à 2000?",
+        "options": ["Sergey Bubka", "Renaud Lavillenie", "Thierry Vigneron", "Maksim Tarasov"],
+        "correct_option": "a"
+      },
+      {
+        "id": "30002B",
+        "question": "Quel joueur de tennis a remporté un Golden Slam en 1988, en remportant les quatre tournois du Grand Chelem et les Jeux olympiques?",
+        "options": ["Pete Sampras", "Andre Agassi", "Bjorn Borg", "Steffi Graf"],
+        "correct_option": "d"
+      },
+      {
+        "id": "30003C",
+        "question": "Quel nageur américain a remporté 8 médailles d'or aux Jeux olympiques de 2008 à Pékin?",
+        "options": ["Michael Phelps", "Ryan Lochte", "Ian Thorpe", "Mark Spitz"],
+        "correct_option": "a"
+      },
+      {
+        "id": "30004D",
+        "question": "En quelle année le marathon féminin a-t-il été introduit aux Jeux olympiques?",
+        "options": ["1952", "1968", "1984", "2000"],
+        "correct_option": "c"
+      },
+      {
+        "id": "30005E",
+        "question": "Quel pays a remporté le plus grand nombre de médailles aux Jeux olympiques de la jeunesse d'été en 2018?",
+        "options": ["Chine", "États-Unis", "Russie", "Australie"],
+        "correct_option": "b"
+      },
+      {
+        "id": "30006F",
+        "question": "Quelle équipe de football a remporté la Ligue des champions de l'UEFA en 1999 après avoir marqué deux buts dans les arrêts de jeu?",
+        "options": ["Barcelone", "Real Madrid", "Manchester United", "AC Milan"],
+        "correct_option": "c"
+      },
+      {
+        "question": "Qui a été le premier coureur à terminer un marathon en moins de 2 heures?",
+        "options": ["Eliud Kipchoge", "Kenenisa Bekele", "Haile Gebrselassie", "Mo Farah"],
+        "correct_option": "a"
+      },
+      {
+        "id": "30008H",
+        "question": "Quel pays a remporté la dernière Coupe du Monde de rugby en 2019?",
+        "options": ["Nouvelle-Zélande", "Australie", "Angleterre", "Afrique du Sud"],
+        "correct_option": "c"
+      },
+      {
+        "id": "30009I",
+        "question": "Qui a détenu le record du monde du saut en longueur masculin pendant 23 ans, de 1968 à 1991?",
+        "options": ["Mike Powell", "Bob Beamon", "Carl Lewis", "Ivan Pedroso"],
+        "correct_option": "b"
+      },
+      {
+        "id": "30010J",
+        "question": "Quel boxeur a remporté un championnat du monde dans 8 catégories de poids différentes?",
+        "options": ["Floyd Mayweather Jr.", "Manny Pacquiao", "Sugar Ray Leonard", "Muhammad Ali"],
+        "correct_option": "a"
+      }
+    ]
+}
+]
