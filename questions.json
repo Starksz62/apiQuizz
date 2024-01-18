@@ -846,7 +846,7 @@
         {
             "id": "10001B",
             "question": "Qui est le réalisateur de 'E.T. l'extra-terrestre'?",
-            "option": [
+            "options": [
                 "Christopher Nolan",
                 "Quentin Tarantino",
                 "Quentin Tarantino",
@@ -857,7 +857,7 @@
         {
             "id": "10002B",
             "question": "Dans quel film peut-on entendre la réplique : 'Je suis le roi du monde!'?",
-            "option": [
+            "options": [
                 "Inception",
                 "Le Roi Lion",
                 "Gladiator",
@@ -868,7 +868,7 @@
         {
             "id": "10003B",
             "question": "Quel acteur joue le rôle de Harry Potter ?",
-            "option": [
+            "options": [
                 "Rupert Grint",
                 "Elijah Wood",
                 "Tom Holland",
@@ -879,7 +879,7 @@
         {
             "id": "10004B",
             "question": "Quelle ville est protégée par Batman ?",
-            "option": [
+            "options": [
                 "New York",
                 "Metropolis",
                 "Star City",
@@ -890,7 +890,7 @@
         {
             "id": "10005B",
             "question": "Quel acteur joue Jack Sparrow dans 'Pirates des Caraïbes' ?",
-            "option": [
+            "options": [
                 "Orlando Bloom",
                 "Brad Pitt",
                 "Hugh Jackman",
@@ -901,7 +901,7 @@
         {
             "id": "10006B",
             "question": "Quel film de super-héros de 2018 met en vedette Chadwick Boseman dans le rôle principal?",
-            "option": [
+            "options": [
                 "Iron Man",
                 "Thor",
                 "Spider-Man",
@@ -912,7 +912,7 @@
         {
             "id": "10007B",
             "question": "Qui est connu pour avoir dit 'Je vais faire une offre qu'il ne pourra pas refuser' ?",
-            "option": [
+            "options": [
                 "James Bond",
                 "Indiana Jones",
                 "Tony Montana",
@@ -923,7 +923,7 @@
         {
             "id": "10008B",
             "question": "Dans quel film Leonardo DiCaprio joue-t-il un voleur spécialisé dans le vol de rêves ?",
-            "option": [
+            "options": [
                 "The Revenant",
                 "Shutter Island",
                 "Inception",
@@ -934,7 +934,7 @@
         {
             "id": "10009B",
             "question": "Quel film a pour vedette un grand requin blanc ?",
-            "option": [
+            "options": [
                 "Finding Nemo",
                 "Deep Blue Sea",
                 "Les Dents de la Mer",
@@ -945,7 +945,7 @@
         {
             "id": "10010B",
             "question": "Qui a réalisé 'La Liste de Schindler' en 1993 ?",
-            "option": [
+            "options": [
                 "Ridley Scott",
                 "Oliver Stone",
                 "James Cameron",
@@ -965,7 +965,7 @@
         {
             "id": "10001C",
             "question": "Dans quel film de Quentin Tarantino voit-on le personnage de Mia Wallace ?",
-            "option": [
+            "options": [
                 "Kill Bill",
                 "Pulp Fiction",
                 "Reservoir Dogs",
@@ -976,7 +976,7 @@
         {
             "id": "10002C",
             "question": "Qui a remporté l'Oscar de la meilleure actrice pour son rôle dans 'La Môme'?",
-            "option": [
+            "options": [
                 "Audrey Tautou",
                 "Catherine Deneuve",
                 "Juliette Binoche",
@@ -987,7 +987,7 @@
         {
             "id": "10003C",
             "question": "Quel est le premier film de la série 'Le Seigneur des Anneaux'?",
-            "option": [
+            "options": [
                 "La Communauté de l'Anneau",
                 "La Bataille des Cinq Armées",
                 "Le Retour du Roi",
@@ -998,7 +998,7 @@
         {
             "id": "10004C",
             "question": "Qui a réalisé 'Inglourious Basterds' en 2009 ?",
-            "option": [
+            "options": [
                 "Steven Spielberg",
                 "Quentin Tarantino",
                 "Martin Scorsese",
@@ -1009,7 +1009,7 @@
         {
             "id": "10005C",
             "question": "Dans 'Le Parrain', qui joue le rôle de Michael Corleone ?",
-            "option": [
+            "options": [
                 "Marlon Brando",
                 "Robert De Niro",
                 "Al Pacino",
@@ -1020,7 +1020,7 @@
         {
             "id": "10006C",
             "question": "Quel film a remporté l'Oscar du meilleur film en 2001 ?",
-            "option": [
+            "options": [
                 "Gladiator",
                 "A Beautiful Mind",
                 "Le Seigneur des Anneaux",
@@ -1031,7 +1031,7 @@
         {
             "id": "10007C",
             "question": "Quel est le nom de l'actrice qui joue Hermione Granger dans la série 'Harry Potter'?",
-            "option": [
+            "options": [
                 "Anne Hathaway",
                 "Natalie Portman",
                 "Keira Knightley",
@@ -1042,7 +1042,7 @@
         {
             "id": "10008C",
             "question": "Dans quel film des années 90 Tom Hanks joue-t-il un avocat atteint du SIDA ?",
-            "option": [
+            "options": [
                 "Big",
                 "Cast Away",
                 "Philadelphia",
@@ -1053,7 +1053,7 @@
         {
             "id": "10009C",
             "question": "Quel film de science-fiction de 1982, réalisé par Ridley Scott, est devenu un classique du genre ?",
-            "option": [
+            "options": [
                 "Blade Runner",
                 "Star Wars",
                 "Alien",
@@ -1064,7 +1064,7 @@
         {
             "id": "10010C",
             "question": "Qui a composé la musique célèbre de 'Psychose' d'Alfred Hitchcock ?",
-            "option": [
+            "options": [
                 "John Williams",
                 "Bernard Herrmann",
                 "Ennio Morricone",
@@ -1084,7 +1084,7 @@
         {
             "id": "10001D",
             "question": "Quel cinéaste français est célèbre pour ses films 'Le Mépris' et 'À bout de souffle'?",
-            "option": [
+            "options": [
                 "François Truffaut",
                 "Jean-Luc Godard",
                 "Louis Malle",
@@ -1095,7 +1095,7 @@
         {
             "id": "10002D",
             "question": "Dans quel film Jean Reno joue-t-il un tueur à gages?",
-            "option": [
+            "options": [
                 "Léon",
                 "Nikita",
                 "Le Grand Bleu",
@@ -1106,7 +1106,7 @@
         {
             "id": "10003D",
             "question": "Quel film a remporté la Palme d'Or à Cannes en 1987?",
-            "option": [
+            "options": [
                 "Sous le soleil de Satan",
                 "Le Festin de Babette",
                 "Platoon",
@@ -1117,7 +1117,7 @@
         {
             "id": "10004D",
             "question": "Qui a réalisé 'Mulholland Drive'?",
-            "option": [
+            "options": [
                 "David Fincher",
                 "David Lynch",
                 "Quentin Tarantino",
@@ -1128,7 +1128,7 @@
         {
             "id": "10005D",
             "question": "Qui a écrit le scénario de 'Pulp Fiction'?",
-            "option": [
+            "options": [
                 "Quentin Tarantino et Martin Scorsese",
                 "Quentin Tarantino et Stanley Kubrick",
                 "Quentin Tarantino et Robert Rodriguez",
@@ -1139,7 +1139,7 @@
         {
             "id": "10006D",
             "question": "Quel est le premier film de la trilogie 'Trois couleurs' de Krzysztof Kieślowski?",
-            "option": [
+            "options": [
                 "Blanc",
                 "Rouge",
                 "Bleu",
@@ -1150,7 +1150,7 @@
         {
             "id": "10007D",
             "question": "Quel acteur a joué dans 'Le Septième Sceau' de Ingmar Bergman ?",
-            "option": [
+            "options": [
                 "Max von Sydow",
                 "Marcello Mastroianni",
                 "Toshiro Mifune",
@@ -1161,7 +1161,7 @@
         {
             "id": "10008D",
             "question": "Quel est le nom du réalisateur de 'La Vie d'Adèle' ?",
-            "option": [
+            "options": [
                 "Luc Besson",
                 "Gaspar Noé",
                 "Abdellatif Kechiche",
@@ -1172,7 +1172,7 @@
         {
             "id": "10009D",
             "question": "Quel film a marqué les débuts de réalisateur de Clint Eastwood ?",
-            "option": [
+            "options": [
                 "Unforgiven",
                 "Mystic River",
                 "Play Misty for Me",
@@ -1183,7 +1183,7 @@
         {
             "id": "10010D",
             "question": "Quel film, considéré comme un classique du cinéma néo-réaliste italien, a été réalisé par Vittorio De Sica en 1948 ?",
-            "option": [
+            "options": [
                 "La Dolce Vita",
                 "Rome, Ville Ouverte",
                 "Le Voleur de bicyclette",
@@ -1399,4 +1399,215 @@
       }
     ]
 }
+, {
+  "category": {
+    "id": "WEB789",
+    "name": "Web"
+  },
+  "difficulty": "easy",
+  "questions": [
+    {
+      "id": "10001A",
+      "question": "Qu'est-ce que URL signifie?",
+      "options": ["Universal Resource Locator", "Uniform Resource Link", "Unified Resource Locator", "Universal Reference Link"],
+      "correct_option": "Universal Resource Locator"
+    },
+    {
+      "id": "10002B",
+      "question": "Qui est le fondateur de World Wide Web (WWW)?",
+      "options": ["Tim Berners-Lee", "Mark Zuckerberg", "Bill Gates", "Steve Jobs"],
+      "correct_option": "Tim Berners-Lee"
+    },
+    {
+      "id": "10003C",
+      "question": "Quelle entreprise est connue pour son moteur de recherche?",
+      "options": ["Google", "Microsoft", "Apple", "Facebook"],
+      "correct_option": "Google"
+    },
+    {
+      "id": "10004D",
+      "question": "Quel protocole est utilisé pour envoyer des courriels sur Internet?",
+      "options": ["SMTP", "FTP", "HTTP", "POP"],
+      "correct_option": "SMTP"
+    },
+    {
+      "id": "10005E",
+      "question": "Quel format de fichier est généralement utilisé pour les images sur le web?",
+      "options": ["JPEG", "PDF", "MP3", "GIF"],
+      "correct_option": "JPEG"
+    },
+    {
+      "id": "10006F",
+      "question": "Quelle est la fonction principale des cookies sur un site web?",
+      "options": ["Enregistrer les préférences des utilisateurs", "Faire des achats en ligne", "Stocker des vidéos", "Envoyer des e-mails"],
+      "correct_option": "Enregistrer les préférences des utilisateurs"
+    },
+    {
+      "id": "10007G",
+      "question": "Qu'est-ce que signifie 'HTML' dans le contexte du web?",
+      "options": ["HyperText Markup Language", "High-Level Text Machine Language", "HyperTransfer Markup Language", "HyperText Machine Language"],
+      "correct_option": "HyperText Markup Language"
+    },
+    {
+      "id": "10008H",
+      "question": "Quel langage de programmation est principalement utilisé pour le développement côté serveur sur le web?",
+      "options": ["PHP", "Java", "Python", "JavaScript"],
+      "correct_option": "PHP"
+    },
+    {
+      "id": "10009I",
+      "question": "Quel est le navigateur web le plus utilisé?",
+      "options": ["Chrome", "Safari", "Firefox", "Edge"],
+      "correct_option": "Chrome"
+    },
+    {
+      "id": "10010J",
+      "question": "Quel service est utilisé pour envoyer des messages courts sur le web?",
+      "options": ["SMS", "Email", "Chat", "VoIP"],
+      "correct_option": "SMS"
+    }
+  ]
+},
+{
+  "category": {
+    "id": "WEB789",
+    "name": "Web"
+},
+"difficulty": "medium",
+"questions": [
+    
+    {
+      "id": "10011K",
+      "question": "Quel protocole est utilisé pour sécuriser les communications sur un site web?",
+      "options": ["SSL/TLS", "HTTP", "FTP", "DHCP"],
+      "correct_option": "SSL/TLS"
+    },
+    {
+      "id": "10012L",
+      "question": "Quel langage est utilisé pour styliser la présentation des pages web?",
+      "options": ["CSS", "HTML", "JavaScript", "PHP"],
+      "correct_option": "CSS"
+    },
+    {
+      "id": "10013M",
+      "question": "Quelle technologie permet la communication en temps réel entre le client et le serveur sur le web?",
+      "options": ["WebSocket", "AJAX", "REST", "GraphQL"],
+      "correct_option": "WebSocket"
+    },
+    {
+      "id": "10014N",
+      "question": "Quelle balise HTML est utilisée pour incorporer une vidéo dans une page web?",
+      "options": ["video", "media", "movie", "embed"],
+      "correct_option": "video"
+    },
+    {
+      "id": "10015O",
+      "question": "Quelle est la signification de l'acronyme 'CMS' dans le contexte du web?",
+      "options": ["Content Management System", "Centralized Management System", "Computer Maintenance System", "Communication and Messaging System"],
+      "correct_option": "Content Management System"
+    },
+    {
+      "id": "10016P",
+      "question": "Quel terme est utilisé pour décrire une attaque visant à rendre un site web indisponible en submergeant le serveur de trafic?",
+      "options": ["DDoS", "SQL Injection", "Cross-Site Scripting", "Phishing"],
+      "correct_option": "DDoS"
+    },
+    {
+      "id": "10017Q",
+      "question": "Quelle méthode HTTP est utilisée pour envoyer des données depuis le navigateur vers le serveur?",
+      "options": ["POST", "GET", "PUT", "DELETE"],
+      "correct_option": "POST"
+    },
+    {
+      "id": "10018R",
+      "question": "Quel langage de programmation est principalement utilisé pour les animations et les interactions côté client sur le web?",
+      "options": ["JavaScript", "Java", "C++", "Python"],
+      "correct_option": "JavaScript"
+    },
+    {
+      "id": "10019S",
+      "question": "Quel type de stockage côté client est utilisé pour stocker de petites quantités de données de manière persistante?",
+      "options": ["LocalStorage", "SessionStorage", "Cookies", "IndexedDB"],
+      "correct_option": "LocalStorage"
+    },
+    {
+      "id": "10020T",
+      "question": "Quel standard est utilisé pour assurer la sécurité des transactions financières en ligne?",
+      "options": ["SSL/TLS", "HTTPS", "SSH", "VPN"],
+      "correct_option": "SSL/TLS"
+    }
+  ]
+},
+{
+  "category": {
+    "id": "WEB789",
+    "name": "Web"
+},
+"difficulty": "hard",
+"questions": [
+
+
+    {
+      "id": "10021U",
+      "question": "Qu'est-ce que le modèle de conception MVC dans le développement web?",
+      "options": ["Modèle-Vue-Contrôleur", "Mobile View Controller", "Microservices View Component", "Managed View Configuration"],
+      "correct_option": "Modèle-Vue-Contrôleur"
+    },
+    {
+      "id": "10022V",
+      "question": "Quelle méthode de sécurité permet de protéger contre les attaques de type 'Cross-Site Scripting' (XSS)?",
+      "options": ["Validation des entrées", "Chiffrement des données", "Filtrage de sortie", "Contrôle d'accès"],
+      "correct_option": "Filtrage de sortie"
+    },
+    {
+      "id": "10023W",
+      "question": "Qu'est-ce que le responsive design?",
+      "options": ["Conception adaptative aux appareils", "Développement rapide d'applications", "Design centré sur l'utilisateur", "Optimisation des performances"],
+      "correct_option": "Conception adaptative aux appareils"
+    },
+    {
+      "id": "10024X",
+      "question": "Quel type d'attaque vise à obtenir des informations confidentielles en simulant une entité de confiance?",
+      "options": ["Phishing", "DDoS", "Spoofing", "Man-in-the-Middle"],
+      "correct_option": "Phishing"
+    },
+    {
+      "id": "10025Y",
+      "question": "Quel langage de programmation est principalement utilisé pour le développement côté serveur dans le framework Django?",
+      "options": ["Python", "Ruby", "JavaScript", "Java"],
+      "correct_option": "Python"
+    },
+    {
+      "id": "10026Z",
+      "question": "Quel terme désigne l action de rendre un site web accessible à tous, y compris aux personnes handicapées?",
+      "options": ["Accessibilité Web", "Web Analytics", "Web Hosting", "Web Security"],
+      "correct_option": "Accessibilité Web"
+    },
+    {
+      "id": "10027AA",
+      "question": "Quelle est la fonction principale d'un serveur proxy dans le contexte du web?",
+      "options": ["Intermédiaire entre le client et le serveur", "Stockage de données", "Authentification utilisateur", "Cryptage des communications"],
+      "correct_option": "Intermédiaire entre le client et le serveur"
+    },
+    {
+      "id": "10028BB",
+      "question": "Quel est le rôle du langage SQL dans le développement web?",
+      "options": ["Gestion des bases de données", "Stylisation des pages web", "Création d'interfaces utilisateur", "Communication avec le serveur"],
+      "correct_option": "Gestion des bases de données"
+    },
+    {
+      "id": "10029CC",
+      "question": "Quel standard permet l'échange structuré de données entre un serveur web et un navigateur?",
+      "options": ["JSON (JavaScript Object Notation)", "XML (eXtensible Markup Language)", "YAML (YAML Ain't Markup Language)", "CSV (Comma-Separated Values)"],
+      "correct_option": "JSON (JavaScript Object Notation)"
+    },
+    {
+      "id": "10030DD",
+      "question": "Quelle technologie est utilisée pour créer des pages web interactives en temps réel sans recharger la page?",
+      "options": ["AJAX (Asynchronous JavaScript and XML)", "REST (Representational State Transfer)", "GraphQL (Graph Query Language)", "SOAP (Simple Object Access Protocol)"],
+      "correct_option": "AJAX (Asynchronous JavaScript and XML)"
+    }
+  ]
+}
 ]
+
