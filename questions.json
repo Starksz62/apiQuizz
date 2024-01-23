@@ -282,8 +282,8 @@
         "id": "10001A",
         "question": "Quelle est la première loi du mouvement de Newton ?",
         "options": [
-          "Loi de l'inertie",
           "Loi de l'action et de la réaction",
+          "Loi de l'inertie",
           "Loi de la gravité",
           "Loi de la conservation de l'énergie"
         ],
@@ -292,7 +292,7 @@
       {
         "id": "10002B",
         "question": "Quel est l'élément le plus abondant dans l'écorce terrestre ?",
-        "options": ["Oxygène", "Silicium", "Aluminium", "Fer"],
+        "options": [ "Silicium", "Oxygène","Aluminium", "Fer"],
         "correct_option": "Oxygène"
       },
       {
@@ -333,17 +333,17 @@
         "id": "10007G",
         "question": "Quelle est la vitesse de la lumière dans le vide ?",
         "options": [
-          "300,000 km/s",
           "150,000 km/s",
           "500,000 km/s",
-          "1,000,000 km/s"
+          "1,000,000 km/s",
+          "300,000 km/s"
         ],
         "correct_option": "300,000 km/s"
       },
       {
         "id": "10008H",
         "question": "Quel est l'organe principal du système respiratoire humain ?",
-        "options": ["Poumons", "Coeur", "Foie", "Reins"],
+        "options": [ "Coeur", "Poumons", "Foie", "Reins"],
         "correct_option": "Poumons"
       },
       {
@@ -356,9 +356,9 @@
         "id": "10010J",
         "question": "Quelle est la force qui maintient les planètes en orbite autour du soleil ?",
         "options": [
-          "Force gravitationnelle",
           "Force électromagnétique",
           "Force nucléaire forte",
+          "Force gravitationnelle",
           "Force centripète"
         ],
         "correct_option": "Force gravitationnelle"
@@ -432,7 +432,7 @@
       {
         "id": "20008H",
         "question": "Quelle est la couche atmosphérique qui contient la majorité de la météo de la Terre ?",
-        "options": ["Troposphère", "Stratosphère", "Ionosphère", "Exosphère"],
+        "options": [ "Stratosphère", "Ionosphère", "Exosphère", "Troposphère"],
         "correct_option": "Troposphère"
       },
       {
@@ -449,7 +449,7 @@
       {
         "id": "20010J",
         "question": "Quel est le processus par lequel l'eau change de l'état liquide à l'état gazeux ?",
-        "options": ["Évaporation", "Condensation", "Fusion", "Solidification"],
+        "options": [ "Condensation", "Fusion","Évaporation", "Solidification"],
         "correct_option": "Évaporation"
       }
     ]
@@ -544,8 +544,8 @@
         "question": "Quel est l'effet du trou noir sur la lumière qui s'en approche trop ?",
         "options": [
           "Réflexion totale",
-          "Absorption totale",
           "Réfraction totale",
+          "Absorption totale",
           "Incurvation totale"
         ],
         "correct_option": "Absorption totale"
@@ -554,9 +554,9 @@
         "id": "30010J",
         "question": "Quelle est la molécule responsable du stockage et de la transmission de l'énergie dans les cellules ?",
         "options": [
-          "Adénosine triphosphate (ATP)",
           "Glucose",
           "Acide désoxyribonucléique (ADN)",
+          "Adénosine triphosphate (ATP)",
           "Ribonucléique (ARN)"
         ],
         "correct_option": "Adénosine triphosphate (ATP)"
@@ -576,22 +576,22 @@
         "question": "Qui a chanté 'Billie Jean' et 'Thriller' ?",
         "options": [
           "Prince",
-          "Elvis Presley",
           "Stevie Wonder",
-          "Michael Jackson"
+          "Michael Jackson",
+          "Elvis Presley"
         ],
         "correct_option": "Michael Jackson"
       },
       {
         "id": "634661448f0049033d2eadb6",
         "question": "Quel genre musical est souvent associé à l'utilisation de la guitare électrique ?",
-        "options": ["Classique", "Country", "Jazz", "Rock"],
+        "options": ["Classique", "Rock", "Country", "Jazz"],
         "correct_option": "Rock"
       },
       {
         "id": "634661448f0049033d2eadb7",
         "question": "Combien de touches noires et blanches un piano standard a-t-il généralement ?",
-        "options": ["52", "76", "64", "88"],
+        "options": ["88", "52", "76", "64"],
         "correct_option": "88"
       },
       {
@@ -610,10 +610,10 @@
         "id": "634661448f0049033d2eada0",
         "question": "Qui était surnommé 'The King of Rock 'n' Roll' ?",
         "options": [
-          "Michael Jackson",
           "Buddy Holly",
           "Chuck Berry",
-          "Elvis Presley"
+          "Elvis Presley",
+          "Michael Jackson"
         ],
         "correct_option": "Elvis Presley"
       },
@@ -621,23 +621,23 @@
         "id": "634661448f0049033d2eada1",
         "question": "Quel est le nom du groupe de rock britannique qui comprend John Lennon, Paul McCartney, George Harrison et Ringo Starr ?",
         "options": [
+          "The Beatles",
           "The Rolling Stones",
           "The Who",
-          "Led Zeppelin",
-          "The Beatles"
+          "Led Zeppelin"
         ],
         "correct_option": "The Beatles"
       },
       {
         "id": "634661448f0049033d2eada2",
         "question": "Quelle est la première note de la gamme de do majeur ?",
-        "options": ["La", "Mi", "Sol", "Do"],
+        "options": ["La", "Mi", "Do", "Sol"],
         "correct_option": "Do"
       },
       {
         "id": "634661448f0049033d2eada5",
         "question": "Quel est l'instrument à vent le plus courant dans un orchestre symphonique ?",
-        "options": ["Trompette", "Saxophone", "Trombone", "Flûte"],
+        "options": [ "Flûte", "Trompette", "Saxophone", "Trombone"],
         "correct_option": "Flûte"
       },
       {
@@ -664,34 +664,34 @@
       {
         "id": "634661448f0049033d2eadc7",
         "question": "Dans quel pays a émergé le genre musical reggae, popularisé par des artistes tels que Bob Marley ?",
-        "options": ["Trinité-et-Tobago", "Barbade", "Haïti", "Jamaïque"],
+        "options": ["Trinité-et-Tobago", "Jamaïque", "Barbade", "Haïti" ],
         "correct_option": "Jamaïque"
       },
       {
         "id": "634661448f0049033d2eadb8",
         "question": "Quelle est la durée standard d'une symphonie classique de Beethoven ?",
         "options": [
+          "Environ 30 minutes",
           "Environ 15 minutes",
           "Environ 45 minutes",
-          "Environ 1 heure",
-          "Environ 30 minutes"
+          "Environ 1 heure"
         ],
         "correct_option": "Environ 30 minutes"
       },
       {
         "id": "634661448f0049033d2eadc2",
         "question": "Quel terme désigne le passage d'une pièce musicale d'une tonalité à une autre de manière fluide et naturelle ?",
-        "options": ["Harmonisation", "Transposition", "Cadence", "Modulation"],
+        "options": ["Harmonisation", "Transposition", "Modulation", "Cadence"],
         "correct_option": "Modulation"
       },
       {
         "id": "634661448f0049033d2eadba",
         "question": "Quel compositeur russe est célèbre pour ses ballets 'Le Lac des cygnes' et 'La Belle au bois dormant' ?",
         "options": [
+          "Piotr Ilitch Tchaïkovski",
           "Igor Stravinsky",
           "Serge Prokofiev",
-          "Dmitri Chostakovitch",
-          "Piotr Ilitch Tchaïkovski"
+          "Dmitri Chostakovitch"
         ],
         "correct_option": "Piotr Ilitch Tchaïkovski"
       },
@@ -709,13 +709,13 @@
       {
         "id": "634661448f0049033d2eadc8",
         "question": "Quel terme désigne un groupe de musiciens qui jouent ensemble, généralement sous la direction d'un chef d'orchestre ?",
-        "options": ["Ensemble", "Chœur", "Quatuor", "Orchestre"],
+        "options": ["Ensemble", "Orchestre", "Chœur", "Quatuor"],
         "correct_option": "Orchestre"
       },
       {
         "id": "634661448f0049033d2eadbd",
         "question": "Quel terme désigne une suite de notes jouées rapidement d'une manière fluide et sans interruption ?",
-        "options": ["Staccato", "Legato", "Vibrato", "Glissando"],
+        "options": ["Glissando", "Staccato", "Legato", "Vibrato"],
         "correct_option": "Glissando"
       },
       {
@@ -742,17 +742,17 @@
       {
         "id": "634661448f0049033d2eadca",
         "question": "Quelle est la technique vocale consistant à chanter sans paroles, en utilisant des sons vocaux non lexicaux ?",
-        "options": ["Scat", "Aria", "Madrigal", "Vocalise"],
+        "options": ["Scat", "Vocalise", "Aria", "Madrigal"],
         "correct_option": "Vocalise"
       },
       {
         "id": "634661448f0049033d2eadd6",
         "question": "Quel musicien de jazz américain est surnommé 'Satchmo' et était célèbre pour son talent de trompettiste ainsi que pour sa voix distinctive ?",
         "options": [
+          "Louis Armstrong",
           "Dizzy Gillespie",
           "Miles Davis",
-          "Charlie Parker",
-          "Louis Armstrong"
+          "Charlie Parker"
         ],
         "correct_option": "Louis Armstrong"
       },
@@ -768,8 +768,8 @@
         "options": [
           "Le mouvement punk",
           "Le mouvement grunge",
-          "Le mouvement mod",
-          "Le mouvement hippie"
+          "Le mouvement hippie",
+          "Le mouvement mod"
         ],
         "correct_option": "Le mouvement hippie"
       },
@@ -789,9 +789,9 @@
         "question": "Quel célèbre guitariste américain est connu pour son jeu de guitare slide et a été surnommé 'King of the Slide Guitar' ?",
         "options": [
           "Jimi Hendrix",
+          "Duane Allman",
           "Eric Clapton",
-          "B.B. King",
-          "Duane Allman"
+          "B.B. King"
         ],
         "correct_option": "Duane Allman"
       },
@@ -810,10 +810,10 @@
         "id": "634661448f0049033d2eadcc",
         "question": "Quelle chanson du groupe The Beatles est également connue sous le nom de 'The White Album' et comprend des chansons comme 'Blackbird' et 'While My Guitar Gently Weeps' ?",
         "options": [
+          "The Beatles (White Album)",
           "Abbey Road",
           "Revolver",
-          "Sgt. Pepper's Lonely Hearts Club Band",
-          "The Beatles (White Album)"
+          "Sgt. Pepper's Lonely Hearts Club Band"
         ],
         "correct_option": "The Beatles (White Album)"
       },
@@ -828,9 +828,9 @@
         "question": "Quelle chanson de Bob Dylan, devenue un hymne des droits civiques, a été interprétée par de nombreux artistes, dont Joan Baez et Peter, Paul and Mary ?",
         "options": [
           "The Times They Are a-Changin'",
+          "Blowin' in the Wind",
           "Like a Rolling Stone",
-          "Mr. Tambourine Man",
-          "Blowin' in the Wind"
+          "Mr. Tambourine Man"
         ],
         "correct_option": "Blowin' in the Wind"
       }
@@ -847,10 +847,10 @@
             "id": "10001B",
             "question": "Qui est le réalisateur de 'E.T. l'extra-terrestre'?",
             "options": [
+                "Steven Spielberg",
                 "Christopher Nolan",
                 "Quentin Tarantino",
-                "Quentin Tarantino",
-                "Steven Spielberg"
+                "Quentin Tarantino"
             ],
             "correct_option": "Steven Spielberg"
         },
@@ -859,9 +859,9 @@
             "question": "Dans quel film peut-on entendre la réplique : 'Je suis le roi du monde!'?",
             "options": [
                 "Inception",
+                "Titanic",  
                 "Le Roi Lion",
-                "Gladiator",
-                "Titanic"
+                "Gladiator"
             ],
             "correct_option": "Titanic"
         },
@@ -880,10 +880,10 @@
             "id": "10004B",
             "question": "Quelle ville est protégée par Batman ?",
             "options": [
+                "Gotham City",
                 "New York",
                 "Metropolis",
-                "Star City",
-                "Gotham City"
+                "Star City"
             ],
             "correct_option": "Gotham City"
         },
@@ -893,8 +893,8 @@
             "options": [
                 "Orlando Bloom",
                 "Brad Pitt",
-                "Hugh Jackman",
-                "Johnny Depp"
+                "Johnny Depp",
+                "Hugh Jackman"
             ],
             "correct_option": "Johnny Depp"
         },
@@ -902,10 +902,10 @@
             "id": "10006B",
             "question": "Quel film de super-héros de 2018 met en vedette Chadwick Boseman dans le rôle principal?",
             "options": [
+                "Black Panther",
                 "Iron Man",
                 "Thor",
-                "Spider-Man",
-                "Black Panther"
+                "Spider-Man"
             ],
             "correct_option": "Black Panther"
         },
@@ -947,9 +947,9 @@
             "question": "Qui a réalisé 'La Liste de Schindler' en 1993 ?",
             "options": [
                 "Ridley Scott",
+                "Steven Spielberg",
                 "Oliver Stone",
-                "James Cameron",
-                "Steven Spielberg"
+                "James Cameron"
             ],
             "correct_option": "Steven Spielberg"
         }
@@ -1154,7 +1154,7 @@
                 "Max von Sydow",
                 "Marcello Mastroianni",
                 "Toshiro Mifune",
-                " Alain Delon"
+                "Alain Delon"
             ],
             "correct_option": "Max von Sydow"
         },
@@ -1204,61 +1204,61 @@
         "id": "10001A",
         "question": "Quel joueur de football a remporté le Ballon d'Or en 2020?",
         "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Mohamed Salah"],
-        "correct_option": "a"
+        "correct_option": "Lionel Messi"
       },
       {
         "id": "10002B",
         "question": "En quelle année les Jeux olympiques d'été ont-ils eu lieu pour la première fois?",
         "options": ["1896", "1904", "1920", "1936"],
-        "correct_option": "a"
+        "correct_option": "1896"
       },
       {
         "id": "10003C",
         "question": "Quelle équipe a remporté la Coupe du Monde de la FIFA en 2014?",
         "options": ["Brésil", "Espagne", "Allemagne", "Argentine"],
-        "correct_option": "c"
+        "correct_option": "Allemagne"
       },
       {
         "id": "10004D",
         "question": "Quel joueur de tennis a remporté le plus grand nombre de titres du Grand Chelem en simple masculin?",
         "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
-        "correct_option": "c"
+        "correct_option": "Novak Djokovic"
       },
       {
         "id": "10005E",
         "question": "Dans quel sport Michael Phelps excelle-t-il?",
         "options": ["Basketball", "Athlétisme", "Natation", "Tennis"],
-        "correct_option": "c"
+        "correct_option": "Natation"
       },
       {
         "id": "10006F",
         "question": "Quel pays a remporté le plus grand nombre de médailles d'or aux Jeux olympiques d'hiver?",
         "options": ["Norvège", "États-Unis", "Canada", "Russie"],
-        "correct_option": "a"
+        "correct_option": "Norvège"
       },
       {
         "id": "10007G",
         "question": "Qui a remporté le Tour de France 2020?",
         "options": ["Egan Bernal", "Primoz Roglic", "Tadej Pogacar", "Chris Froome"],
-        "correct_option": "c"
+        "correct_option": "Tadej Pogacar"
       },
       {
         "id": "10008H",
         "question": "Quelle équipe a remporté la dernière Coupe du Monde de rugby en 2019?",
         "options": ["Australie", "Nouvelle-Zélande", "Afrique du Sud", "Angleterre"],
-        "correct_option": "c"
+        "correct_option": "Afrique du Sud"
       },
       {
         "id": "10009I",
         "question": "Quel joueur de basketball est surnommé 'The Greek Freak'?",
         "options": ["LeBron James", "Kevin Durant", "Giannis Antetokounmpo", "Stephen Curry"],
-        "correct_option": "c"
+        "correct_option":  "Giannis Antetokounmpo"
       },
       {
         "id": "10010J",
         "question": "Quel pays a remporté la dernière Coupe d'Afrique des Nations de football en 2019?",
-        "options": ["Nigeria", "Sénégal", "Algérie", "Maroc"],
-        "correct_option": "c"
+        "options": ["Algérie", "Nigeria", "Sénégal", "Maroc"],
+        "correct_option": "Algérie"
       }
     ]
   },
@@ -1273,61 +1273,61 @@
         "id": "20001A",
         "question": "Quel joueur de football a remporté le Soulier d'Or européen en 2019?",
         "options": ["Lionel Messi", "Cristiano Ronaldo", "Kylian Mbappé", "Robert Lewandowski"],
-        "correct_option": "d"
+        "correct_option": "Robert Lewandowski"
       },
       {
         "id": "20002B",
         "question": "En quelle année les Jeux olympiques d'été ont-ils été organisés pour la première fois?",
         "options": ["1896", "1900", "1920", "1936"],
-        "correct_option": "a"
+        "correct_option": "1896"
       },
       {
         "id": "20003C",
         "question": "Quel athlète a remporté le décathlon aux Jeux olympiques de 1976 à Montréal?",
         "options": ["Bruce Jenner", "Daley Thompson", "Ashton Eaton", "Roman Šebrle"],
-        "correct_option": "a"
+        "correct_option": "Bruce Jenner"
       },
       {
         "id": "20004D",
         "question": "Quelle équipe a remporté la dernière Coupe d'Afrique des Nations de football en 2021?",
         "options": ["Sénégal", "Nigeria", "Algérie", "Maroc"],
-        "correct_option": "c"
+        "correct_option": "Algérie"
       },
       {
         "id": "20005E",
         "question": "Qui a été le meilleur buteur de la Ligue des champions de l'UEFA 2020-2021?",
         "options": ["Erling Haaland", "Robert Lewandowski", "Karim Benzema", "Lionel Messi"],
-        "correct_option": "b"
+        "correct_option": "Robert Lewandowski"
       },
       {
         "id": "20006F",
         "question": "Quel pays a remporté le plus grand nombre de médailles aux Jeux olympiques d'hiver?",
         "options": ["Norvège", "Allemagne", "Canada", "États-Unis"],
-        "correct_option": "a"
+        "correct_option": "Norvège"
       },
       {
         "id": "20007G",
         "question": "Qui a remporté le dernier championnat du monde de Formule 1 en 2021?",
         "options": ["Lewis Hamilton", "Max Verstappen", "Valtteri Bottas", "Sebastian Vettel"],
-        "correct_option": "b"
+        "correct_option": "Max Verstappen"
       },
       {
         "id": "20008H",
         "question": "Quelle nation a remporté le plus grand nombre de médailles aux Jeux olympiques de Rio 2016?",
         "options": ["États-Unis", "Chine", "Russie", "Allemagne"],
-        "correct_option": "a"
+        "correct_option": "États-Unis"
       },
       {
         "id": "20009I",
         "question": "Quel boxeur a été surnommé 'Money'?",
         "options": ["Manny Pacquiao", "Floyd Mayweather Jr.", "Canelo Alvarez", "Mike Tyson"],
-        "correct_option": "b"
+        "correct_option": "Floyd Mayweather Jr."
       },
       {
         "id": "20010J",
         "question": "Quel joueur de tennis a remporté le plus grand nombre de titres du Grand Chelem en simple féminin?",
         "options": ["Serena Williams", "Steffi Graf", "Martina Navratilova", "Margaret Court"],
-        "correct_option": "d"
+        "correct_option": "Margaret Court"
       }
     ]
   },
@@ -1342,60 +1342,60 @@
         "id": "30001A",
         "question": "Quel athlète a détenu le record du monde du saut à la perche masculin pendant 6 ans, de 1994 à 2000?",
         "options": ["Sergey Bubka", "Renaud Lavillenie", "Thierry Vigneron", "Maksim Tarasov"],
-        "correct_option": "a"
+        "correct_option": "Sergey Bubka"
       },
       {
         "id": "30002B",
         "question": "Quel joueur de tennis a remporté un Golden Slam en 1988, en remportant les quatre tournois du Grand Chelem et les Jeux olympiques?",
         "options": ["Pete Sampras", "Andre Agassi", "Bjorn Borg", "Steffi Graf"],
-        "correct_option": "d"
+        "correct_option": "Steffi Graf"
       },
       {
         "id": "30003C",
         "question": "Quel nageur américain a remporté 8 médailles d'or aux Jeux olympiques de 2008 à Pékin?",
         "options": ["Michael Phelps", "Ryan Lochte", "Ian Thorpe", "Mark Spitz"],
-        "correct_option": "a"
+        "correct_option": "Michael Phelps"
       },
       {
         "id": "30004D",
         "question": "En quelle année le marathon féminin a-t-il été introduit aux Jeux olympiques?",
         "options": ["1952", "1968", "1984", "2000"],
-        "correct_option": "c"
+        "correct_option": "1984"
       },
       {
         "id": "30005E",
         "question": "Quel pays a remporté le plus grand nombre de médailles aux Jeux olympiques de la jeunesse d'été en 2018?",
         "options": ["Chine", "États-Unis", "Russie", "Australie"],
-        "correct_option": "b"
+        "correct_option": "États-Unis"
       },
       {
         "id": "30006F",
         "question": "Quelle équipe de football a remporté la Ligue des champions de l'UEFA en 1999 après avoir marqué deux buts dans les arrêts de jeu?",
         "options": ["Barcelone", "Real Madrid", "Manchester United", "AC Milan"],
-        "correct_option": "c"
+        "correct_option": "Manchester United"
       },
       {
         "question": "Qui a été le premier coureur à terminer un marathon en moins de 2 heures?",
         "options": ["Eliud Kipchoge", "Kenenisa Bekele", "Haile Gebrselassie", "Mo Farah"],
-        "correct_option": "a"
+        "correct_option": "Eliud Kipchoge"
       },
       {
         "id": "30008H",
         "question": "Quel pays a remporté la dernière Coupe du Monde de rugby en 2019?",
         "options": ["Nouvelle-Zélande", "Australie", "Angleterre", "Afrique du Sud"],
-        "correct_option": "c"
+        "correct_option": "Angleterre"
       },
       {
         "id": "30009I",
         "question": "Qui a détenu le record du monde du saut en longueur masculin pendant 23 ans, de 1968 à 1991?",
         "options": ["Mike Powell", "Bob Beamon", "Carl Lewis", "Ivan Pedroso"],
-        "correct_option": "b"
+        "correct_option": "Bob Beamon"
       },
       {
         "id": "30010J",
         "question": "Quel boxeur a remporté un championnat du monde dans 8 catégories de poids différentes?",
         "options": ["Floyd Mayweather Jr.", "Manny Pacquiao", "Sugar Ray Leonard", "Muhammad Ali"],
-        "correct_option": "a"
+        "correct_option": "Floyd Mayweather Jr."
       }
     ]
 }
@@ -1409,13 +1409,13 @@
     {
       "id": "10001A",
       "question": "Qu'est-ce que URL signifie?",
-      "options": ["Universal Resource Locator", "Uniform Resource Link", "Unified Resource Locator", "Universal Reference Link"],
+      "options": [ "Uniform Resource Link", "Unified Resource Locator", "Universal Resource Locator", "Universal Reference Link"],
       "correct_option": "Universal Resource Locator"
     },
     {
       "id": "10002B",
       "question": "Qui est le fondateur de World Wide Web (WWW)?",
-      "options": ["Tim Berners-Lee", "Mark Zuckerberg", "Bill Gates", "Steve Jobs"],
+      "options": [ "Mark Zuckerberg", "Tim Berners-Lee", "Bill Gates", "Steve Jobs"],
       "correct_option": "Tim Berners-Lee"
     },
     {
@@ -1427,7 +1427,7 @@
     {
       "id": "10004D",
       "question": "Quel protocole est utilisé pour envoyer des courriels sur Internet?",
-      "options": ["SMTP", "FTP", "HTTP", "POP"],
+      "options": [ "FTP", "HTTP", "POP", "SMTP"],
       "correct_option": "SMTP"
     },
     {
@@ -1439,7 +1439,7 @@
     {
       "id": "10006F",
       "question": "Quelle est la fonction principale des cookies sur un site web?",
-      "options": ["Enregistrer les préférences des utilisateurs", "Faire des achats en ligne", "Stocker des vidéos", "Envoyer des e-mails"],
+      "options": [ "Faire des achats en ligne", "Stocker des vidéos","Enregistrer les préférences des utilisateurs", "Envoyer des e-mails"],
       "correct_option": "Enregistrer les préférences des utilisateurs"
     },
     {
@@ -1451,7 +1451,7 @@
     {
       "id": "10008H",
       "question": "Quel langage de programmation est principalement utilisé pour le développement côté serveur sur le web?",
-      "options": ["PHP", "Java", "Python", "JavaScript"],
+      "options": [ "Java", "Python", "JavaScript", "PHP"],
       "correct_option": "PHP"
     },
     {
@@ -1463,7 +1463,7 @@
     {
       "id": "10010J",
       "question": "Quel service est utilisé pour envoyer des messages courts sur le web?",
-      "options": ["SMS", "Email", "Chat", "VoIP"],
+      "options": [ "Email", "Chat", "SMS", "VoIP"],
       "correct_option": "SMS"
     }
   ]
@@ -1485,7 +1485,7 @@
     {
       "id": "10012L",
       "question": "Quel langage est utilisé pour styliser la présentation des pages web?",
-      "options": ["CSS", "HTML", "JavaScript", "PHP"],
+      "options": [ "HTML", "JavaScript", "PHP", "CSS"],
       "correct_option": "CSS"
     },
     {
@@ -1497,7 +1497,7 @@
     {
       "id": "10014N",
       "question": "Quelle balise HTML est utilisée pour incorporer une vidéo dans une page web?",
-      "options": ["video", "media", "movie", "embed"],
+      "options": [ "media", "movie", "video", "embed"],
       "correct_option": "video"
     },
     {
@@ -1509,19 +1509,19 @@
     {
       "id": "10016P",
       "question": "Quel terme est utilisé pour décrire une attaque visant à rendre un site web indisponible en submergeant le serveur de trafic?",
-      "options": ["DDoS", "SQL Injection", "Cross-Site Scripting", "Phishing"],
+      "options": [ "SQL Injection", "Cross-Site Scripting", "DDoS", "Phishing"],
       "correct_option": "DDoS"
     },
     {
       "id": "10017Q",
       "question": "Quelle méthode HTTP est utilisée pour envoyer des données depuis le navigateur vers le serveur?",
-      "options": ["POST", "GET", "PUT", "DELETE"],
+      "options": [ "GET", "POST", "PUT", "DELETE"],
       "correct_option": "POST"
     },
     {
       "id": "10018R",
       "question": "Quel langage de programmation est principalement utilisé pour les animations et les interactions côté client sur le web?",
-      "options": ["JavaScript", "Java", "C++", "Python"],
+      "options": [ "Java", "C++", "Python", "JavaScript"],
       "correct_option": "JavaScript"
     },
     {
@@ -1533,7 +1533,7 @@
     {
       "id": "10020T",
       "question": "Quel standard est utilisé pour assurer la sécurité des transactions financières en ligne?",
-      "options": ["SSL/TLS", "HTTPS", "SSH", "VPN"],
+      "options": ["HTTPS", "SSH", "SSL/TLS", "VPN"],
       "correct_option": "SSL/TLS"
     }
   ]
@@ -1545,8 +1545,6 @@
 },
 "difficulty": "hard",
 "questions": [
-
-
     {
       "id": "10021U",
       "question": "Qu'est-ce que le modèle de conception MVC dans le développement web?",
@@ -1562,13 +1560,13 @@
     {
       "id": "10023W",
       "question": "Qu'est-ce que le responsive design?",
-      "options": ["Conception adaptative aux appareils", "Développement rapide d'applications", "Design centré sur l'utilisateur", "Optimisation des performances"],
+      "options": [ "Développement rapide d'applications", "Design centré sur l'utilisateur", "Optimisation des performances", "Conception adaptative aux appareils"],
       "correct_option": "Conception adaptative aux appareils"
     },
     {
       "id": "10024X",
       "question": "Quel type d'attaque vise à obtenir des informations confidentielles en simulant une entité de confiance?",
-      "options": ["Phishing", "DDoS", "Spoofing", "Man-in-the-Middle"],
+      "options": ["DDoS", "Spoofing", "Phishing", "Man-in-the-Middle"],
       "correct_option": "Phishing"
     },
     {
@@ -1580,19 +1578,19 @@
     {
       "id": "10026Z",
       "question": "Quel terme désigne l action de rendre un site web accessible à tous, y compris aux personnes handicapées?",
-      "options": ["Accessibilité Web", "Web Analytics", "Web Hosting", "Web Security"],
+      "options": [ "Web Analytics", "Web Hosting", "Web Security", "Accessibilité Web"],
       "correct_option": "Accessibilité Web"
     },
     {
       "id": "10027AA",
       "question": "Quelle est la fonction principale d'un serveur proxy dans le contexte du web?",
-      "options": ["Intermédiaire entre le client et le serveur", "Stockage de données", "Authentification utilisateur", "Cryptage des communications"],
+      "options": ["Stockage de données", "Authentification utilisateur", "Intermédiaire entre le client et le serveur", "Cryptage des communications"],
       "correct_option": "Intermédiaire entre le client et le serveur"
     },
     {
       "id": "10028BB",
       "question": "Quel est le rôle du langage SQL dans le développement web?",
-      "options": ["Gestion des bases de données", "Stylisation des pages web", "Création d'interfaces utilisateur", "Communication avec le serveur"],
+      "options": ["Stylisation des pages web", "Création d'interfaces utilisateur", "Gestion des bases de données", "Communication avec le serveur"],
       "correct_option": "Gestion des bases de données"
     },
     {
@@ -1608,6 +1606,7 @@
       "correct_option": "AJAX (Asynchronous JavaScript and XML)"
     }
   ]
-}
+}, 
+{}
 ]
 
