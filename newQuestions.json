@@ -1,0 +1,45 @@
+[
+    [
+      {
+        "category": "la ferme",
+        "difficulty": "easy",
+        "question": "que mange lapin",
+        "options": [
+          "pain",
+          "viande",
+          "carotte",
+          "soupe"
+        ],
+        "correct_option": 2
+      }
+    ],
+    [
+      {
+        "category": "la ferme",
+        "difficulty": "easy",
+        "question": "que mange le lapin",
+        "options": [
+          "poulet",
+          "couscous",
+          "caviar",
+          "carotte"
+        ],
+        "correct_option": 3
+      }
+    ],
+    [
+      {
+        "category": "",
+        "difficulty": "easy",
+        "question": "que mange le mouton?",
+        "options": [
+          "couscous",
+          "carottes",
+          "olive",
+          "herbe"
+        ],
+        "correct_option": 3
+      }
+    ]
+  ]
+  
